@@ -13,11 +13,9 @@ paper| slides ()| presentations -->
 4. skimage 0.16.2
 
 
-
 # Citation
 Please cite our paper if you find this code useful for your research:
-'''
-@inproceedings{chen2021par-gan,
+`@inproceedings{chen2021par-gan,
   title = {PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks},
   author = {Chen, Junjie and Wang, Wendy Hui and Gao, Hongchang and Shi, Xinghua},
   booktitle = {Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
@@ -25,4 +23,4 @@ Please cite our paper if you find this code useful for your research:
   <!-- pages = {2942–2951}, -->
   publisher = {ACM},
 }
-'''
+`
